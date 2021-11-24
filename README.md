@@ -1,2 +1,2 @@
 # Vinrito
-VinritoTP
+VinritoRP
